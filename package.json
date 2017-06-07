@@ -1,0 +1,17 @@
+{
+  "name": "koa-allow-orgin",
+  "version": "0.0.1",
+  "description": "koa2 allow you cross domain with configuration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "koa2",
+    "allow-origin",
+    "cross",
+    "domain"
+  ],
+  "author": "ronchi",
+  "license": "MIT"
+}
