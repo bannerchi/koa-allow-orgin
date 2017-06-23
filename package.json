@@ -1,6 +1,6 @@
 {
-  "name": "koa-allow-orgin",
-  "version": "0.0.1",
+  "name": "koa-allow-origin",
+  "version": "0.0.2",
   "description": "koa2 allow you cross domain with configuration",
   "main": "index.js",
   "scripts": {
